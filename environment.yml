@@ -1,0 +1,5 @@
+name: graph algorithms solutions
+channels:
+  - conda-forge
+dependencies:
+  - appmode
